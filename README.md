@@ -1,6 +1,7 @@
-# How to Running Records APP
+Documentation [Here](https://github.com/adirhmn/records_app/tree/main/documentation)
+Postman Collection [Here](https://github.com/adirhmn/records_app/blob/main/Mezink%20Records.postman_collection.json)
 
-Here are the steps to clone a project from GitHub to your computer.
+# How to Running Records APP
 
 ## Prerequisites
 
