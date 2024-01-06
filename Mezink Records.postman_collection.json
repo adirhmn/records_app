@@ -1,0 +1,45 @@
+{
+	"info": {
+		"_postman_id": "58c59cc5-effa-4207-8e84-d197944cc04a",
+		"name": "Mezink Records",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "11731835"
+	},
+	"item": [
+		{
+			"name": "Find Records",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "RAHASIA",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\"startDate\": \"2024-01-06\",\r\n\"endDate\": \"2024-01-31\",\r\n\"minCount\": 100,\r\n\"maxCount\": 200\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/api/records",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"records"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
