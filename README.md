@@ -1,5 +1,5 @@
-Documentation [Here](https://github.com/adirhmn/records_app/tree/main/documentation)
-Postman Collection [Here](https://github.com/adirhmn/records_app/blob/main/Mezink%20Records.postman_collection.json)
+- Documentation [Here](https://github.com/adirhmn/records_app/tree/main/documentation)
+- Postman Collection [Here](https://github.com/adirhmn/records_app/blob/main/Mezink%20Records.postman_collection.json)
 
 # How to Running Records APP
 
