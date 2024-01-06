@@ -128,13 +128,12 @@ Before you begin, make sure you have Git installed on your computer. If not, you
 
 19. **Enter Request URL**
 
-    Enter the URL endpoint of the application. For example:
+    Enter the URL endpoint of the application. 
 
     ```
-    http://localhost:port/api/endpoint
+    http://localhost:8080/api/records
     ```
 
-    Replace `port` and `/api/endpoint` with the appropriate values for your application.
 
 20. **Set Request Body**
 
